@@ -1,0 +1,11 @@
+C:\Users\ens_s\Desktop\Software\C# Course\quiz-application\quiz-application\bin\Debug\quiz-application.exe.config
+C:\Users\ens_s\Desktop\Software\C# Course\quiz-application\quiz-application\bin\Debug\quiz-application.exe
+C:\Users\ens_s\Desktop\Software\C# Course\quiz-application\quiz-application\bin\Debug\quiz-application.pdb
+C:\Users\ens_s\Desktop\Software\C# Course\quiz-application\quiz-application\obj\Debug\quiz-application.csproj.AssemblyReference.cache
+C:\Users\ens_s\Desktop\Software\C# Course\quiz-application\quiz-application\obj\Debug\quiz-application.csproj.SuggestedBindingRedirects.cache
+C:\Users\ens_s\Desktop\Software\C# Course\quiz-application\quiz-application\obj\Debug\quiz_application.Form1.resources
+C:\Users\ens_s\Desktop\Software\C# Course\quiz-application\quiz-application\obj\Debug\quiz_application.Properties.Resources.resources
+C:\Users\ens_s\Desktop\Software\C# Course\quiz-application\quiz-application\obj\Debug\quiz-application.csproj.GenerateResource.cache
+C:\Users\ens_s\Desktop\Software\C# Course\quiz-application\quiz-application\obj\Debug\quiz-application.csproj.CoreCompileInputs.cache
+C:\Users\ens_s\Desktop\Software\C# Course\quiz-application\quiz-application\obj\Debug\quiz-application.exe
+C:\Users\ens_s\Desktop\Software\C# Course\quiz-application\quiz-application\obj\Debug\quiz-application.pdb
